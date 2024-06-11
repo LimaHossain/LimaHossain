@@ -6,7 +6,7 @@ Skills: Python, C++, SQL
 
 - 🔭 I’m currently working on Brain disease detection using MRI 
 - 🌱 I’m currently learning PyTorch  
-- 💬 Ask me about Anime  
+- 💬 Ask me about Anime as I love to talk about it  
 - 📫 How to reach me: hossain.limuu@gmail.com 
 
 
